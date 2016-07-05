@@ -1,0 +1,100 @@
+import pandas as pd
+import numpy as np
+import sklearn
+from sklearn import datasets
+from sklearn import linear_model
+import os
+
+from sklearn.cross_validation import cross_val_score
+from sklearn.cross_validation import cross_val_predict
+from sklearn.metrics import r2_score
+from sklearn.cross_validation import train_test_split
+
+from IPython.core.display import Image, HTML
+
+import matplotlib.pyplot as plt
+
+
+wine = pd.read_csv('/Users/HudsonCavanagh/dsi-projects/DSI-NYC-1/curriculum/week-03/4.1-regression-challenge/class_wine_data.csv')
+
+wine_list = wine.columns
+
+white_list = []
+for i in wine['type']:
+    if str(i) == "white":
+         white_list.append(1)
+    if str(i) == "red":
+        white_list.append(0)
+white_series = pd.Series(white_list)
+wine['white_binary'] = white_series
+
+wine = wine.drop('type', 1)
+df_X = pd.DataFrame(wine, columns=wine.columns)
+df_X = df_X.drop('quality', 1)
+df_y = wine["quality"]
+
+mod1_df_X = df_X
+original_cols = mod1_df_X.columns
+
+
+
+
+mod1_df_X = mod1_df_X.drop('Unnamed: 0', 1) #0.016
+mod1_df_X = mod1_df_X.drop('fixed acidity', 1) #0.016
+mod1_df_X = mod1_df_X.drop('volatile acidity', 1) #0.010942553036192071
+mod1_df_X = mod1_df_X.drop('citric acid', 1) #0.00040354091383287827
+mod1_df_X = mod1_df_X.drop('chlorides', 1) #0.015463068699226645
+mod1_df_X = mod1_df_X.drop('density', 1) #0.012960654108241321
+mod1_df_X = mod1_df_X.drop('pH', 1) #0.016015850592016045
+mod1_df_X = mod1_df_X.drop('sulphates', 1) # 0.0093347231927186636
+mod1_df_X = mod1_df_X.drop('white_binary', 1) # 0.0093347231927186636
+
+# with all: 
+mod1_df_y = df_y
+
+X_train1, X_test1, y_train1, y_test1 = train_test_split(mod1_df_X,mod1_df_y, test_size=.4)
+
+
+lm = linear_model.LinearRegression()
+lm_model1 = lm.fit(X_train1, y_train1)
+y_mod1_predicted = lm_model1.predict(X_test1)
+lm_r2 = r2_score(y_true=y_test1, y_pred=y_mod1_predicted)
+heads = mod1_df_X.columns
+coefs = zip(lm_model1.coef_, heads)
+print(lm_r2)
+
+
+new_cols = mod1_df_X.columns
+cols_coefs = zip(lm_model1.coef_, new_cols)
+
+
+final_preds = cross_val_predict(lm_model1, mod1_df_X, mod1_df_y, cv=10)
+
+
+wine_test = pd.read_csv('/Users/HudsonCavanagh/dsi-projects/DSI-NYC-1/curriculum/week-03/4.1-regression-challenge/blinded_test.csv')
+# wine_test
+
+wine_test = wine_test.drop('Unnamed: 0', 1) #0.016
+wine_test = wine_test.drop('fixed acidity', 1) #0.016
+wine_test = wine_test.drop('volatile acidity', 1) #0.010942553036192071
+wine_test = wine_test.drop('citric acid', 1) #0.00040354091383287827
+wine_test = wine_test.drop('chlorides', 1) #0.015463068699226645
+wine_test = wine_test.drop('density', 1) #0.012960654108241321
+wine_test = wine_test.drop('pH', 1) #0.016015850592016045
+wine_test = wine_test.drop('sulphates', 1) # 0.0093347231927186636
+wine_test = wine_test.drop('type', 1) # 0.0093347231927186636
+
+dfX = pd.DataFrame(wine_test, columns=wine_test.columns)
+dy = y_test1
+
+scores = cross_val_score(lm_model1, mod1_df_X, mod1_df_y, cv=10)
+print "Cross-validated scores mean:", scores.mean()
+
+# Make cross validated predictions
+final_preds = cross_val_predict(lm_model1, mod1_df_X, mod1_df_y, cv=10)
+#Downside to increasing folds: 
+plt.scatter(mod1_df_y, final_preds)
+r2_final = r2_score(mod1_df_y, final_preds)
+mse_final = sklearn.metrics.mean_squared_error(mod1_df_y, final_preds)
+print("Cross-Predicted R^2:", r2_final, "Mean squared error:", mse_final)
+
