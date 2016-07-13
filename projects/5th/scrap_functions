@@ -1,0 +1,15 @@
+# avg_ages['Dr']
+
+# for indexh, valueh in enumerate(df['Age']):
+#     if np.isnan(valueh):
+#         if pd.isnull(df['title_mod'][indexh]) == False:
+#             df['Age'][indexh] = avg_ages[(df['title_mod'][indexh])]
+#         elif pd.isnull(df['title_mod'][indexh]) == True:
+#             df['Age'][indexh] = 29.7
+#     else:
+#         continue
+
+# df['Age'].apply(lambda x: float(x))
+# df['Age'].fillna(avg_ages[df['title_mod']], inplace=1)
+
+# pandas.pivot_table(data, values=None, index=None, columns=None, aggfunc='mean', fill_value=None, margins=False, dropna=True, margins_name='All')
