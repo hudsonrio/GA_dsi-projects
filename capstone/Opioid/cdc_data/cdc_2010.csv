@@ -1,0 +1,1338 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate	% of Total Deaths
+	"Baldwin County, AL"	"01003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	11234	Unreliable	0.015%
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	22637	Unreliable	0.024%
+	"Jefferson County, AL"	"01073"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21340	Unreliable	0.017%
+	"Jefferson County, AL"	"01073"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	25549	Unreliable	0.028%
+	"Madison County, AL"	"01089"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	14746	Unreliable	0.017%
+	"Madison County, AL"	"01089"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	19565	Unreliable	0.015%
+	"Mobile County, AL"	"01097"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	15709	Unreliable	0.017%
+	"Mobile County, AL"	"01097"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15670	Unreliable	0.015%
+	"Mobile County, AL"	"01097"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	16211	Unreliable	0.015%
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16642	Unreliable	0.017%
+	"Apache County, AZ"	"04001"	"35-44 years"	"35-44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	10	3011	Unreliable	0.015%
+	"Apache County, AZ"	"04001"	"45-54 years"	"45-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	11	3478	Unreliable	0.017%
+	"Apache County, AZ"	"04001"	"45-54 years"	"45-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	11	3185	Unreliable	0.017%
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	131011	Unreliable	0.021%
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	96404	Unreliable	0.017%
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	139394	30.130	0.064%
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	141886	22.553	0.049%
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	86241	Unreliable	0.017%
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	65	145288	44.739	0.099%
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	74083	Unreliable	0.021%
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	57	148694	38.334	0.087%
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	14	4063	Unreliable	0.021%
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	19	73961	Unreliable	0.029%
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	88	153173	57.451	0.135%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	50208	Unreliable	0.015%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	87	174819	49.766	0.133%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	10	3275	Unreliable	0.015%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	12579	Unreliable	0.018%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	45	49953	90.085	0.069%
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	151	169848	88.903	0.231%
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	67	161657	41.446	0.102%
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	7775	Unreliable	0.017%
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	21	26323	79.778	0.032%
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	111	145751	76.157	0.170%
+	"Maricopa County, AZ"	"04013"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	112340	22.254	0.038%
+	"Maricopa County, AZ"	"04013"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	46	99350	46.301	0.070%
+	"Maricopa County, AZ"	"04013"	"75-84 years"	"75-84"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	71705	Unreliable	0.018%
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	12169	Unreliable	0.024%
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	11907	Unreliable	0.028%
+	"Mohave County, AZ"	"04015"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	13624	Unreliable	0.029%
+	"Mohave County, AZ"	"04015"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	13187	Unreliable	0.018%
+	"Pima County, AZ"	"04019"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	35003	Unreliable	0.020%
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	29498	Unreliable	0.017%
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	22332	Unreliable	0.018%
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	31592	Unreliable	0.026%
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	29405	Unreliable	0.020%
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	30858	77.776	0.037%
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	41938	66.765	0.043%
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	40388	103.991	0.064%
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	46370	53.914	0.038%
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	11019	Unreliable	0.015%
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	42454	89.509	0.058%
+	"Pima County, AZ"	"04019"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	30362	Unreliable	0.021%
+	"Pinal County, AZ"	"04021"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	15344	Unreliable	0.021%
+	"Yavapai County, AZ"	"04025"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	15630	Unreliable	0.023%
+	"Pulaski County, AR"	"05119"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	16244	Unreliable	0.021%
+	"Alameda County, CA"	"06001"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	38654	Unreliable	0.020%
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	45756	Unreliable	0.021%
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	14108	Unreliable	0.017%
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	16158	Unreliable	0.015%
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	47171	48.759	0.035%
+	"Alameda County, CA"	"06001"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	42072	Unreliable	0.023%
+	"Alameda County, CA"	"06001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	8750	Unreliable	0.015%
+	"Alameda County, CA"	"06001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	40880	90.509	0.057%
+	"Butte County, CA"	"06007"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	8685	Unreliable	0.018%
+	"Butte County, CA"	"06007"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	12303	Unreliable	0.024%
+	"Butte County, CA"	"06007"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	11496	Unreliable	0.026%
+	"Butte County, CA"	"06007"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	13169	Unreliable	0.021%
+	"Butte County, CA"	"06007"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	12209	Unreliable	0.029%
+	"Contra Costa County, CA"	"06013"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	33064	Unreliable	0.018%
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	47198	Unreliable	0.020%
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	46411	Unreliable	0.029%
+	"Contra Costa County, CA"	"06013"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	41801	Unreliable	0.020%
+	"Contra Costa County, CA"	"06013"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	39836	80.329	0.049%
+	"Contra Costa County, CA"	"06013"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	22298	Unreliable	0.017%
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18227	Unreliable	0.015%
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	28035	Unreliable	0.020%
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	18244	Unreliable	0.017%
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	21542	Unreliable	0.015%
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	25056	83.812	0.032%
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	22	22560	97.518	0.034%
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	24158	124.182	0.046%
+	"Fresno County, CA"	"06019"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	22	13589	161.896	0.034%
+	"Fresno County, CA"	"06019"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	22430	124.833	0.043%
+	"Humboldt County, CA"	"06023"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	8010	Unreliable	0.017%
+	"Humboldt County, CA"	"06023"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	8656	Unreliable	0.020%
+	"Humboldt County, CA"	"06023"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4242	Unreliable	0.015%
+	"Kern County, CA"	"06029"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21990	Unreliable	0.017%
+	"Kern County, CA"	"06029"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	19289	103.686	0.031%
+	"Kern County, CA"	"06029"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	20597	Unreliable	0.024%
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	26484	Unreliable	0.029%
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	27437	116.631	0.049%
+	"Kern County, CA"	"06029"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	23108	Unreliable	0.026%
+	"Kern County, CA"	"06029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	10515	Unreliable	0.018%
+	"Kern County, CA"	"06029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	22751	127.467	0.044%
+	"Lake County, CA"	"06033"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4300	Unreliable	0.015%
+	"Lake County, CA"	"06033"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	4109	Unreliable	0.017%
+	"Lake County, CA"	"06033"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4592	Unreliable	0.015%
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	163142	Unreliable	0.023%
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	17	403296	Unreliable	0.026%
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	167966	20.242	0.052%
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	185495	Unreliable	0.023%
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	66	359327	18.368	0.101%
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	39	200389	19.462	0.060%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	63236	Unreliable	0.015%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	19	327213	Unreliable	0.029%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	39	184562	21.131	0.060%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	54127	Unreliable	0.023%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	113	335263	33.705	0.173%
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	74	201482	36.728	0.113%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	31	72195	42.939	0.047%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	46	259477	17.728	0.070%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	98	223221	43.903	0.150%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	38	63156	60.168	0.058%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	189	251130	75.260	0.289%
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	163	240037	67.906	0.249%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	23	53167	43.260	0.035%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	31	165923	18.683	0.047%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	63	201399	31.281	0.096%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	45	43629	103.142	0.069%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	129	143313	90.013	0.197%
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	151	203257	74.290	0.231%
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	88126	Unreliable	0.020%
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	128120	17.952	0.035%
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	24681	Unreliable	0.021%
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	70	66632	105.055	0.107%
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	49	116456	42.076	0.075%
+	"Los Angeles County, CA"	"06037"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	27	32713	82.536	0.041%
+	"Los Angeles County, CA"	"06037"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	72075	31.911	0.035%
+	"Marin County, CA"	"06041"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18316	Unreliable	0.015%
+	"Marin County, CA"	"06041"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16395	Unreliable	0.017%
+	"Mendocino County, CA"	"06045"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	6077	Unreliable	0.018%
+	"Merced County, CA"	"06047"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	5750	Unreliable	0.015%
+	"Monterey County, CA"	"06053"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	11201	Unreliable	0.017%
+	"Monterey County, CA"	"06053"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	12199	Unreliable	0.017%
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	84949	28.252	0.037%
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	81316	Unreliable	0.015%
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	80770	39.619	0.049%
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	88573	25.967	0.035%
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	29	74091	39.141	0.044%
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	89178	38.126	0.052%
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	53	116520	45.486	0.081%
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	23	52531	43.784	0.035%
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	72	119260	60.372	0.110%
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	99910	37.033	0.057%
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	16	25328	Unreliable	0.024%
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	59	96344	61.239	0.090%
+	"Orange County, CA"	"06059"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	63879	Unreliable	0.028%
+	"Orange County, CA"	"06059"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	55959	39.314	0.034%
+	"Orange County, CA"	"06059"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	33258	Unreliable	0.020%
+	"Placer County, CA"	"06061"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	21253	Unreliable	0.015%
+	"Placer County, CA"	"06061"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	18103	Unreliable	0.023%
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	53270	Unreliable	0.017%
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	46252	Unreliable	0.020%
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	69659	Unreliable	0.017%
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	47397	Unreliable	0.023%
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	52591	Unreliable	0.018%
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	17	67231	Unreliable	0.026%
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	53443	54.263	0.044%
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	70334	51.184	0.055%
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	28	50179	55.800	0.043%
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	71	72589	97.811	0.109%
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	64651	47.950	0.047%
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	23	25792	89.175	0.035%
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	50	61909	80.764	0.076%
+	"Riverside County, CA"	"06065"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	49871	Unreliable	0.018%
+	"Riverside County, CA"	"06065"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	12121	Unreliable	0.023%
+	"Riverside County, CA"	"06065"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	45369	50.695	0.035%
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	47880	Unreliable	0.029%
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	46512	55.900	0.040%
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	46627	49.328	0.035%
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	59190	62.511	0.057%
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	52	56652	91.788	0.079%
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	52209	55.546	0.044%
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	6491	Unreliable	0.017%
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	7352	Unreliable	0.017%
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	53	47482	111.621	0.081%
+	"Sacramento County, CA"	"06067"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	30088	Unreliable	0.017%
+	"Sacramento County, CA"	"06067"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	24842	Unreliable	0.015%
+	"San Bernardino County, CA"	"06071"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	43356	Unreliable	0.020%
+	"San Bernardino County, CA"	"06071"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	42005	49.994	0.032%
+	"San Bernardino County, CA"	"06071"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	65288	Unreliable	0.015%
+	"San Bernardino County, CA"	"06071"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	42289	Unreliable	0.018%
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	51156	Unreliable	0.023%
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	59313	48.893	0.044%
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	27	50340	53.635	0.041%
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	53	59136	89.624	0.081%
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	29666	Unreliable	0.021%
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	50512	53.453	0.041%
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	23	27231	84.463	0.035%
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	61	50536	120.706	0.093%
+	"San Bernardino County, CA"	"06071"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	12197	Unreliable	0.023%
+	"San Bernardino County, CA"	"06071"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	27488	Unreliable	0.020%
+	"San Bernardino County, CA"	"06071"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14795	Unreliable	0.015%
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	117944	18.653	0.034%
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	103220	20.345	0.032%
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	117106	29.034	0.052%
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	92673	31.293	0.044%
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	63308	Unreliable	0.023%
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	47	102618	45.801	0.072%
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	52689	Unreliable	0.018%
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	70	119052	58.798	0.107%
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	31	48285	64.202	0.047%
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	103	125559	82.033	0.157%
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	56	107442	52.121	0.086%
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	21	25982	80.825	0.032%
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	90	106340	84.634	0.138%
+	"San Diego County, CA"	"06073"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	62874	33.400	0.032%
+	"San Diego County, CA"	"06073"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	57482	55.670	0.049%
+	"San Diego County, CA"	"06073"	"75-84 years"	"75-84"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	46293	Unreliable	0.015%
+	"San Diego County, CA"	"06073"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	36474	Unreliable	0.026%
+	"San Francisco County, CA"	"06075"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	38893	Unreliable	0.029%
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	4893	Unreliable	0.017%
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	53	28612	185.237	0.081%
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	18861	Unreliable	0.021%
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	3982	Unreliable	0.017%
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	59	23151	254.849	0.090%
+	"San Francisco County, CA"	"06075"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	11779	Unreliable	0.021%
+	"San Joaquin County, CA"	"06077"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	15649	Unreliable	0.021%
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	21678	Unreliable	0.020%
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	12038	Unreliable	0.021%
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	21517	116.187	0.038%
+	"San Joaquin County, CA"	"06077"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	18155	115.671	0.032%
+	"San Luis Obispo County, CA"	"06079"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	15629	Unreliable	0.018%
+	"San Mateo County, CA"	"06081"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	27107	Unreliable	0.015%
+	"San Mateo County, CA"	"06081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	28021	Unreliable	0.026%
+	"San Mateo County, CA"	"06081"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	24652	Unreliable	0.020%
+	"Santa Barbara County, CA"	"06083"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	15578	Unreliable	0.018%
+	"Santa Barbara County, CA"	"06083"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	15293	Unreliable	0.018%
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	42283	Unreliable	0.015%
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	33282	Unreliable	0.021%
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	46441	Unreliable	0.015%
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	55609	41.360	0.035%
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	16	23680	Unreliable	0.024%
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	61702	61.586	0.058%
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	46534	Unreliable	0.023%
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	12603	Unreliable	0.018%
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	35	47004	74.462	0.054%
+	"Santa Clara County, CA"	"06085"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	26827	Unreliable	0.020%
+	"Santa Clara County, CA"	"06085"	"75-84 years"	"75-84"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15881	Unreliable	0.015%
+	"Santa Cruz County, CA"	"06087"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9773	Unreliable	0.015%
+	"Santa Cruz County, CA"	"06087"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	14353	Unreliable	0.026%
+	"Shasta County, CA"	"06089"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	12088	Unreliable	0.018%
+	"Shasta County, CA"	"06089"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	11251	Unreliable	0.024%
+	"Shasta County, CA"	"06089"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	11244	Unreliable	0.023%
+	"Solano County, CA"	"06095"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	11028	Unreliable	0.018%
+	"Solano County, CA"	"06095"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	15653	Unreliable	0.020%
+	"Solano County, CA"	"06095"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15842	Unreliable	0.015%
+	"Sonoma County, CA"	"06097"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	17800	Unreliable	0.017%
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	29444	Unreliable	0.017%
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	26638	82.589	0.034%
+	"Sonoma County, CA"	"06097"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	30599	65.362	0.031%
+	"Sonoma County, CA"	"06097"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	27420	76.586	0.032%
+	"Stanislaus County, CA"	"06099"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	15656	Unreliable	0.017%
+	"Stanislaus County, CA"	"06099"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	20561	Unreliable	0.029%
+	"Stanislaus County, CA"	"06099"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	19432	Unreliable	0.017%
+	"Stanislaus County, CA"	"06099"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	17987	Unreliable	0.028%
+	"Stanislaus County, CA"	"06099"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	16387	Unreliable	0.028%
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	20759	Unreliable	0.021%
+	"Ventura County, CA"	"06111"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	25145	Unreliable	0.018%
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	37534	Unreliable	0.029%
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	16779	Unreliable	0.021%
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	36544	76.620	0.043%
+	"Ventura County, CA"	"06111"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	31939	62.619	0.031%
+	"Ventura County, CA"	"06111"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	31098	Unreliable	0.018%
+	"Ventura County, CA"	"06111"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	17058	Unreliable	0.015%
+	"Adams County, CO"	"08001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	18841	Unreliable	0.026%
+	"Adams County, CO"	"08001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	19079	Unreliable	0.024%
+	"Adams County, CO"	"08001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	14617	Unreliable	0.024%
+	"Arapahoe County, CO"	"08005"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	25286	Unreliable	0.024%
+	"Arapahoe County, CO"	"08005"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	25564	Unreliable	0.020%
+	"Arapahoe County, CO"	"08005"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	25006	Unreliable	0.024%
+	"Arapahoe County, CO"	"08005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	32032	Unreliable	0.026%
+	"Arapahoe County, CO"	"08005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	29842	Unreliable	0.026%
+	"Arapahoe County, CO"	"08005"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	25360	Unreliable	0.026%
+	"Denver County, CO"	"08031"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	37645	Unreliable	0.021%
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	22556	Unreliable	0.018%
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	13266	Unreliable	0.018%
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	27192	Unreliable	0.028%
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	19835	126.040	0.038%
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	8910	Unreliable	0.020%
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	45	21437	209.917	0.069%
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	5395	Unreliable	0.021%
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	19891	165.904	0.050%
+	"El Paso County, CO"	"08041"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	31355	Unreliable	0.017%
+	"El Paso County, CO"	"08041"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	29960	Unreliable	0.015%
+	"El Paso County, CO"	"08041"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	37586	Unreliable	0.028%
+	"El Paso County, CO"	"08041"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	3976	Unreliable	0.015%
+	"El Paso County, CO"	"08041"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	36041	86.013	0.047%
+	"El Paso County, CO"	"08041"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	27578	94.278	0.040%
+	"Jefferson County, CO"	"08059"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	39889	Unreliable	0.026%
+	"Jefferson County, CO"	"08059"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	38507	83.102	0.049%
+	"Jefferson County, CO"	"08059"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	33697	Unreliable	0.015%
+	"Jefferson County, CO"	"08059"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	32327	89.708	0.044%
+	"Larimer County, CO"	"08069"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	19762	Unreliable	0.018%
+	"Larimer County, CO"	"08069"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	18412	Unreliable	0.020%
+	"Larimer County, CO"	"08069"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	16741	Unreliable	0.015%
+	"Fairfield County, CT"	"09001"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	27347	Unreliable	0.015%
+	"Fairfield County, CT"	"09001"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	40328	Unreliable	0.020%
+	"Fairfield County, CT"	"09001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	55989	Unreliable	0.021%
+	"Fairfield County, CT"	"09001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	53668	Unreliable	0.023%
+	"Fairfield County, CT"	"09001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	41310	Unreliable	0.021%
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	37312	Unreliable	0.026%
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	53095	Unreliable	0.020%
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	50719	39.433	0.031%
+	"Hartford County, CT"	"09003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	42011	Unreliable	0.020%
+	"Litchfield County, CT"	"09005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15939	Unreliable	0.015%
+	"New Haven County, CT"	"09009"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	32303	Unreliable	0.024%
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	36238	55.191	0.031%
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	50708	Unreliable	0.024%
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	48772	51.259	0.038%
+	"New Haven County, CT"	"09009"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	41211	Unreliable	0.023%
+	"New London County, CT"	"09011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18774	Unreliable	0.015%
+	"Kent County, DE"	"10001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	8007	Unreliable	0.015%
+	"New Castle County, DE"	"10003"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	19689	Unreliable	0.015%
+	"New Castle County, DE"	"10003"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21758	Unreliable	0.017%
+	"New Castle County, DE"	"10003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	28215	Unreliable	0.021%
+	"New Castle County, DE"	"10003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	27199	Unreliable	0.024%
+	"New Castle County, DE"	"10003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	21826	Unreliable	0.018%
+	"Sussex County, DE"	"10005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	11060	Unreliable	0.018%
+	"District of Columbia, DC"	"11001"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	16998	Unreliable	0.015%
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	23	24697	93.129	0.035%
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	29	21733	133.438	0.044%
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	21263	Unreliable	0.015%
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	36	16852	213.624	0.055%
+	"Alachua County, FL"	"12001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	10020	Unreliable	0.015%
+	"Brevard County, FL"	"12009"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	20435	151.701	0.047%
+	"Brevard County, FL"	"12009"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	23915	Unreliable	0.021%
+	"Brevard County, FL"	"12009"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	23505	Unreliable	0.020%
+	"Brevard County, FL"	"12009"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	37651	Unreliable	0.026%
+	"Brevard County, FL"	"12009"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	36881	92.188	0.052%
+	"Brevard County, FL"	"12009"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	31155	134.810	0.064%
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	38129	Unreliable	0.017%
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	40102	Unreliable	0.026%
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	47668	58.740	0.043%
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	51061	72.462	0.057%
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	43	64216	66.962	0.066%
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	51	70087	72.767	0.078%
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	59696	Unreliable	0.029%
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	52	60399	86.094	0.079%
+	"Broward County, FL"	"12011"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	37910	Unreliable	0.017%
+	"Charlotte County, FL"	"12015"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	8800	Unreliable	0.018%
+	"Collier County, FL"	"12021"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	7116	Unreliable	0.017%
+	"Collier County, FL"	"12021"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	13200	Unreliable	0.029%
+	"Duval County, FL"	"12031"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	36883	59.648	0.034%
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	31822	Unreliable	0.015%
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	33847	Unreliable	0.029%
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	40020	67.466	0.041%
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	39551	73.323	0.044%
+	"Duval County, FL"	"12031"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	35004	Unreliable	0.028%
+	"Duval County, FL"	"12031"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	32827	70.064	0.035%
+	"Escambia County, FL"	"12033"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	15220	Unreliable	0.021%
+	"Hernando County, FL"	"12053"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	10406	Unreliable	0.018%
+	"Hernando County, FL"	"12053"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	9580	Unreliable	0.020%
+	"Hernando County, FL"	"12053"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	9941	Unreliable	0.017%
+	"Hillsborough County, FL"	"12057"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	42420	Unreliable	0.024%
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	43709	Unreliable	0.020%
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	43061	69.669	0.046%
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	46765	51.320	0.037%
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	41	47410	86.480	0.063%
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	53938	55.619	0.046%
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	68	54040	125.833	0.104%
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	46120	Unreliable	0.029%
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	40	43629	91.682	0.061%
+	"Lake County, FL"	"12069"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15063	Unreliable	0.015%
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	19286	134.813	0.040%
+	"Lee County, FL"	"12071"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	22352	Unreliable	0.023%
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	32149	Unreliable	0.029%
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	29623	77.642	0.035%
+	"Lee County, FL"	"12071"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	34552	83.931	0.044%
+	"Lee County, FL"	"12071"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	36047	Unreliable	0.018%
+	"Manatee County, FL"	"12081"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	9673	Unreliable	0.020%
+	"Manatee County, FL"	"12081"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	12321	Unreliable	0.017%
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	17952	Unreliable	0.017%
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	16776	119.218	0.031%
+	"Manatee County, FL"	"12081"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21255	Unreliable	0.017%
+	"Manatee County, FL"	"12081"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	18094	Unreliable	0.026%
+	"Marion County, FL"	"12083"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	17928	Unreliable	0.020%
+	"Marion County, FL"	"12083"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	15832	132.643	0.032%
+	"Marion County, FL"	"12083"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	17422	Unreliable	0.017%
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	104759	Unreliable	0.015%
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	125836	Unreliable	0.018%
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	26	113711	22.865	0.040%
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	29188	Unreliable	0.018%
+	"Miami-Dade County, FL"	"12086"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	20265	Unreliable	0.021%
+	"Miami-Dade County, FL"	"12086"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	20	73477	27.219	0.031%
+	"Miami-Dade County, FL"	"12086"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	26692	Unreliable	0.021%
+	"Miami-Dade County, FL"	"12086"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	52791	Unreliable	0.015%
+	"Monroe County, FL"	"12087"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	5328	Unreliable	0.023%
+	"Monroe County, FL"	"12087"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	5977	Unreliable	0.015%
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	41253	58.178	0.037%
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	35710	Unreliable	0.018%
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	39111	56.250	0.034%
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	41527	48.161	0.031%
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	43755	73.134	0.049%
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	33274	Unreliable	0.020%
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	32230	89.978	0.044%
+	"Palm Beach County, FL"	"12099"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	36101	Unreliable	0.023%
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	33248	Unreliable	0.018%
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	34156	84.905	0.044%
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	43987	Unreliable	0.015%
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	43342	73.831	0.049%
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	60416	59.587	0.055%
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	65	58781	110.580	0.099%
+	"Palm Beach County, FL"	"12099"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	62816	33.431	0.032%
+	"Palm Beach County, FL"	"12099"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	55134	76.178	0.064%
+	"Palm Beach County, FL"	"12099"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	58635	Unreliable	0.015%
+	"Palm Beach County, FL"	"12099"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	47777	41.861	0.031%
+	"Pasco County, FL"	"12101"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	18700	Unreliable	0.021%
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	19020	Unreliable	0.024%
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	18097	138.144	0.038%
+	"Pasco County, FL"	"12101"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	23486	Unreliable	0.026%
+	"Pasco County, FL"	"12101"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	23285	120.249	0.043%
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	28259	88.467	0.038%
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	43	27408	156.888	0.066%
+	"Pasco County, FL"	"12101"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	28606	Unreliable	0.018%
+	"Pasco County, FL"	"12101"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	25178	103.265	0.040%
+	"Pasco County, FL"	"12101"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	22022	Unreliable	0.018%
+	"Pinellas County, FL"	"12103"	"15-24 years"	"15-24"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	33073	Unreliable	0.017%
+	"Pinellas County, FL"	"12103"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	33482	Unreliable	0.026%
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	34654	60.599	0.032%
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	44	34532	127.418	0.067%
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	41054	53.588	0.034%
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	40	41538	96.297	0.061%
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	51	61361	83.115	0.078%
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	79	58941	134.032	0.121%
+	"Pinellas County, FL"	"12103"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	60335	61.324	0.057%
+	"Pinellas County, FL"	"12103"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	55468	75.719	0.064%
+	"Pinellas County, FL"	"12103"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	39626	55.519	0.034%
+	"Polk County, FL"	"12105"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	19607	Unreliable	0.021%
+	"Polk County, FL"	"12105"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	22547	Unreliable	0.020%
+	"Polk County, FL"	"12105"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	28309	Unreliable	0.024%
+	"Polk County, FL"	"12105"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	27467	98.300	0.041%
+	"Polk County, FL"	"12105"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	27052	Unreliable	0.026%
+	"St. Lucie County, FL"	"12111"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	12899	170.556	0.034%
+	"St. Lucie County, FL"	"12111"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	12493	Unreliable	0.015%
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	11924	Unreliable	0.020%
+	"Sarasota County, FL"	"12115"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	14770	Unreliable	0.028%
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	23280	Unreliable	0.020%
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	21335	103.117	0.034%
+	"Sarasota County, FL"	"12115"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	24309	90.501	0.034%
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	18823	Unreliable	0.020%
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	23910	Unreliable	0.028%
+	"Volusia County, FL"	"12127"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	21562	Unreliable	0.015%
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	17830	Unreliable	0.020%
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	20443	Unreliable	0.015%
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	21011	118.985	0.038%
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	30520	65.531	0.031%
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	29194	130.164	0.058%
+	"Volusia County, FL"	"12127"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	28826	86.727	0.038%
+	"Chatham County, GA"	"13051"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	9290	Unreliable	0.018%
+	"Cobb County, GA"	"13067"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	28671	Unreliable	0.015%
+	"Cobb County, GA"	"13067"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	34488	Unreliable	0.017%
+	"Cobb County, GA"	"13067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	32965	63.704	0.032%
+	"DeKalb County, GA"	"13089"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	15419	Unreliable	0.018%
+	"Fulton County, GA"	"13121"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	29631	Unreliable	0.024%
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	28283	Unreliable	0.017%
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	30939	Unreliable	0.017%
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	16	24436	Unreliable	0.024%
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	32208	Unreliable	0.026%
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	23951	Unreliable	0.021%
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	22	18077	121.702	0.034%
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	23440	Unreliable	0.021%
+	"Gwinnett County, GA"	"13135"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	20070	Unreliable	0.020%
+	"Gwinnett County, GA"	"13135"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	26164	Unreliable	0.017%
+	"Gwinnett County, GA"	"13135"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	32656	Unreliable	0.017%
+	"Honolulu County, HI"	"15003"	"35-44 years"	"35-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	15	40364	Unreliable	0.023%
+	"Honolulu County, HI"	"15003"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15731	Unreliable	0.015%
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	20	44613	44.830	0.031%
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	16043	Unreliable	0.015%
+	"Honolulu County, HI"	"15003"	"55-64 years"	"55-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	14	38144	Unreliable	0.021%
+	"Honolulu County, HI"	"15003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	14647	Unreliable	0.029%
+	"Ada County, ID"	"16001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	25148	Unreliable	0.018%
+	"Ada County, ID"	"16001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	25112	Unreliable	0.018%
+	"Ada County, ID"	"16001"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	20579	Unreliable	0.017%
+	"Ada County, ID"	"16001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	20166	Unreliable	0.017%
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	135745	Unreliable	0.017%
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	133613	24.698	0.050%
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	186554	11.257	0.032%
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	21	107917	19.459	0.032%
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	67	188055	35.628	0.102%
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	18	94197	Unreliable	0.028%
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	146009	Unreliable	0.028%
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	31	72160	42.960	0.047%
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	26	91365	28.457	0.040%
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	69	154509	44.658	0.105%
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	34	104225	32.622	0.052%
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	179394	21.182	0.058%
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	42	82721	50.773	0.064%
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	21	62178	33.774	0.032%
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	93	177452	52.409	0.142%
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	80850	Unreliable	0.015%
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	160624	Unreliable	0.029%
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	32	59833	53.482	0.049%
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	59	151364	38.979	0.090%
+	"Cook County, IL"	"17031"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	82674	Unreliable	0.017%
+	"DuPage County, IL"	"17043"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	41420	Unreliable	0.026%
+	"DuPage County, IL"	"17043"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	60832	Unreliable	0.020%
+	"DuPage County, IL"	"17043"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	56862	35.173	0.031%
+	"DuPage County, IL"	"17043"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	45044	Unreliable	0.015%
+	"Kane County, IL"	"17089"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	26732	Unreliable	0.018%
+	"Kane County, IL"	"17089"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	20615	Unreliable	0.017%
+	"Lake County, IL"	"17097"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	32501	Unreliable	0.018%
+	"Lake County, IL"	"17097"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	22001	Unreliable	0.026%
+	"Lake County, IL"	"17097"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	30077	Unreliable	0.023%
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	44191	Unreliable	0.018%
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	42140	49.834	0.032%
+	"Lake County, IL"	"17097"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	31889	Unreliable	0.015%
+	"McHenry County, IL"	"17111"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	23909	Unreliable	0.018%
+	"McHenry County, IL"	"17111"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	23599	Unreliable	0.024%
+	"Madison County, IL"	"17119"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	14794	Unreliable	0.023%
+	"Madison County, IL"	"17119"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14795	Unreliable	0.015%
+	"Madison County, IL"	"17119"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	18734	Unreliable	0.023%
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	35338	Unreliable	0.018%
+	"Will County, IL"	"17197"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	38851	Unreliable	0.020%
+	"Winnebago County, IL"	"17201"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	12425	Unreliable	0.015%
+	"Winnebago County, IL"	"17201"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	17770	118.177	0.032%
+	"Allen County, IN"	"18003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	20975	Unreliable	0.021%
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	43020	Unreliable	0.017%
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	42269	Unreliable	0.029%
+	"Marion County, IN"	"18097"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	35701	78.429	0.043%
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	43328	69.239	0.046%
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	15016	Unreliable	0.018%
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	41895	81.155	0.052%
+	"Marion County, IN"	"18097"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	35992	Unreliable	0.017%
+	"Marion County, IN"	"18097"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	9468	Unreliable	0.015%
+	"Marion County, IN"	"18097"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	33131	90.550	0.046%
+	"St. Joseph County, IN"	"18141"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15356	Unreliable	0.015%
+	"St. Joseph County, IN"	"18141"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	15176	Unreliable	0.020%
+	"Vanderburgh County, IN"	"18163"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	11918	Unreliable	0.020%
+	"Vanderburgh County, IN"	"18163"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	11568	Unreliable	0.023%
+	"Polk County, IA"	"19153"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	25862	77.334	0.031%
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	20429	Unreliable	0.018%
+	"Scott County, IA"	"19163"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	10486	Unreliable	0.015%
+	"Johnson County, KS"	"20091"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	37432	Unreliable	0.015%
+	"Johnson County, KS"	"20091"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	34626	Unreliable	0.018%
+	"Sedgwick County, KS"	"20173"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	23990	Unreliable	0.015%
+	"Sedgwick County, KS"	"20173"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	27262	Unreliable	0.017%
+	"Fayette County, KY"	"21067"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	14512	Unreliable	0.018%
+	"Fayette County, KY"	"21067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	14828	148.368	0.034%
+	"Fayette County, KY"	"21067"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	12619	Unreliable	0.020%
+	"Jefferson County, KY"	"21111"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	35802	Unreliable	0.015%
+	"Jefferson County, KY"	"21111"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	36477	Unreliable	0.020%
+	"Jefferson County, KY"	"21111"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	33798	Unreliable	0.017%
+	"Jefferson County, KY"	"21111"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	42618	72.739	0.047%
+	"Jefferson County, KY"	"21111"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	40667	83.606	0.052%
+	"Jefferson County, KY"	"21111"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	34488	Unreliable	0.021%
+	"Kenton County, KY"	"21117"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9830	Unreliable	0.015%
+	"Kenton County, KY"	"21117"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	11313	Unreliable	0.021%
+	"Kenton County, KY"	"21117"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	11121	Unreliable	0.029%
+	"Kenton County, KY"	"21117"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	8725	Unreliable	0.020%
+	"Pike County, KY"	"21195"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	3964	Unreliable	0.017%
+	"Pike County, KY"	"21195"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	4316	Unreliable	0.017%
+	"Pike County, KY"	"21195"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4888	Unreliable	0.015%
+	"Jefferson Parish, LA"	"22051"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	14761	Unreliable	0.020%
+	"Jefferson Parish, LA"	"22051"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	20440	Unreliable	0.017%
+	"Jefferson Parish, LA"	"22051"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	19709	Unreliable	0.020%
+	"Jefferson Parish, LA"	"22051"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	18035	Unreliable	0.018%
+	"St. Tammany Parish, LA"	"22103"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	12352	Unreliable	0.015%
+	"Anne Arundel County, MD"	"24003"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	24105	Unreliable	0.026%
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	26442	Unreliable	0.015%
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	34043	Unreliable	0.015%
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	33233	Unreliable	0.023%
+	"Anne Arundel County, MD"	"24003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	26709	Unreliable	0.015%
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	32977	Unreliable	0.017%
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	28643	Unreliable	0.021%
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	30047	Unreliable	0.020%
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	28541	Unreliable	0.029%
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	42710	Unreliable	0.026%
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	39818	77.854	0.047%
+	"Baltimore County, MD"	"24005"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	35663	Unreliable	0.029%
+	"Prince George's County, MD"	"24033"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	6578	Unreliable	0.017%
+	"Prince George's County, MD"	"24033"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	39581	Unreliable	0.018%
+	"Prince George's County, MD"	"24033"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	10722	Unreliable	0.015%
+	"Prince George's County, MD"	"24033"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	28343	Unreliable	0.017%
+	"Baltimore city, MD"	"24510"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	18956	Unreliable	0.017%
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	21943	Unreliable	0.018%
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	33188	Unreliable	0.021%
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	11033	Unreliable	0.017%
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	37	27515	134.472	0.057%
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	11930	201.174	0.037%
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	25294	Unreliable	0.015%
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	22	19416	113.309	0.034%
+	"Barnstable County, MA"	"25001"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9919	Unreliable	0.015%
+	"Barnstable County, MA"	"25001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	15388	Unreliable	0.020%
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	26583	Unreliable	0.029%
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	34799	Unreliable	0.028%
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	33129	Unreliable	0.024%
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	40266	Unreliable	0.017%
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	38609	108.783	0.064%
+	"Bristol County, MA"	"25005"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	30248	Unreliable	0.020%
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	27639	Unreliable	0.017%
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	36215	Unreliable	0.017%
+	"Essex County, MA"	"25009"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	48911	49.069	0.037%
+	"Essex County, MA"	"25009"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	39997	55.004	0.034%
+	"Hampden County, MA"	"25013"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	19304	Unreliable	0.015%
+	"Hampden County, MA"	"25013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	25947	Unreliable	0.028%
+	"Hampden County, MA"	"25013"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	22373	Unreliable	0.015%
+	"Middlesex County, MA"	"25017"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	74416	Unreliable	0.015%
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	77574	Unreliable	0.020%
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	77393	29.718	0.035%
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	81664	Unreliable	0.015%
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	78819	32.987	0.040%
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	99196	23.186	0.035%
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	43	95001	45.263	0.066%
+	"Middlesex County, MA"	"25017"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	80968	Unreliable	0.026%
+	"Middlesex County, MA"	"25017"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	74471	44.313	0.050%
+	"Middlesex County, MA"	"25017"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	40366	Unreliable	0.017%
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	28447	Unreliable	0.023%
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	37355	Unreliable	0.015%
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	35459	Unreliable	0.026%
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	47838	Unreliable	0.024%
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	45270	57.433	0.040%
+	"Norfolk County, MA"	"25021"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	35640	Unreliable	0.015%
+	"Plymouth County, MA"	"25023"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	19470	Unreliable	0.018%
+	"Plymouth County, MA"	"25023"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	28938	Unreliable	0.026%
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	37558	Unreliable	0.018%
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	35533	Unreliable	0.023%
+	"Plymouth County, MA"	"25023"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	28957	Unreliable	0.017%
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	20267	Unreliable	0.017%
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	23089	Unreliable	0.015%
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	9756	Unreliable	0.015%
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	21300	122.066	0.040%
+	"Suffolk County, MA"	"25025"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18739	Unreliable	0.015%
+	"Suffolk County, MA"	"25025"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	18033	149.726	0.041%
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	34852	65.993	0.035%
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	44347	54.119	0.037%
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	56546	60.128	0.052%
+	"Worcester County, MA"	"25027"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	43860	Unreliable	0.018%
+	"Worcester County, MA"	"25027"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	43148	64.893	0.043%
+	"Berrien County, MI"	"26021"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	8635	Unreliable	0.018%
+	"Calhoun County, MI"	"26025"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	8422	Unreliable	0.020%
+	"Genesee County, MI"	"26049"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	17979	Unreliable	0.026%
+	"Genesee County, MI"	"26049"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	20393	Unreliable	0.026%
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	25793	Unreliable	0.017%
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	24979	96.081	0.037%
+	"Genesee County, MI"	"26049"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	19947	Unreliable	0.015%
+	"Ingham County, MI"	"26065"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	14809	Unreliable	0.017%
+	"Kent County, MI"	"26081"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	29112	Unreliable	0.023%
+	"Kent County, MI"	"26081"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	36875	Unreliable	0.021%
+	"Kent County, MI"	"26081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	35750	83.916	0.046%
+	"Kent County, MI"	"26081"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	27782	Unreliable	0.020%
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	43603	Unreliable	0.017%
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	41051	Unreliable	0.018%
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	41569	60.141	0.038%
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	49140	46.805	0.035%
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	49491	72.740	0.055%
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	59354	47.175	0.043%
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	68	58615	116.011	0.104%
+	"Macomb County, MI"	"26099"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	48263	45.584	0.034%
+	"Macomb County, MI"	"26099"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	45747	78.694	0.055%
+	"Muskegon County, MI"	"26121"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	9118	Unreliable	0.021%
+	"Oakland County, MI"	"26125"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	53655	Unreliable	0.020%
+	"Oakland County, MI"	"26125"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	51166	Unreliable	0.018%
+	"Oakland County, MI"	"26125"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	51824	42.451	0.034%
+	"Oakland County, MI"	"26125"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	62467	Unreliable	0.021%
+	"Oakland County, MI"	"26125"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	61344	39.124	0.037%
+	"Oakland County, MI"	"26125"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	81021	41.964	0.052%
+	"Oakland County, MI"	"26125"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	47	78342	59.993	0.072%
+	"Oakland County, MI"	"26125"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	65586	Unreliable	0.028%
+	"Oakland County, MI"	"26125"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	63134	45.934	0.044%
+	"Ottawa County, MI"	"26139"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	16697	Unreliable	0.015%
+	"Saginaw County, MI"	"26145"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	11007	Unreliable	0.015%
+	"St. Clair County, MI"	"26147"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	10205	Unreliable	0.015%
+	"St. Clair County, MI"	"26147"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	12899	Unreliable	0.026%
+	"St. Clair County, MI"	"26147"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	10470	Unreliable	0.018%
+	"Washtenaw County, MI"	"26161"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	15592	Unreliable	0.023%
+	"Washtenaw County, MI"	"26161"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	19021	Unreliable	0.017%
+	"Wayne County, MI"	"26163"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	58168	46.417	0.041%
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	52996	49.060	0.040%
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	53217	69.527	0.057%
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	17	55334	Unreliable	0.026%
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	59728	35.159	0.032%
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	17	45441	Unreliable	0.026%
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	61460	50.439	0.047%
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	32	56113	57.028	0.049%
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	35	74320	47.094	0.054%
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	35	46950	74.547	0.054%
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	67	74800	89.572	0.102%
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	19	47425	Unreliable	0.029%
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	62192	32.158	0.031%
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	52	37051	140.347	0.079%
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	60852	50.943	0.047%
+	"Dakota County, MN"	"27037"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	29064	Unreliable	0.028%
+	"Dakota County, MN"	"27037"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	20321	Unreliable	0.023%
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	63535	Unreliable	0.017%
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	64486	Unreliable	0.024%
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	55216	Unreliable	0.020%
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	71003	29.576	0.032%
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	69068	41.988	0.044%
+	"Hennepin County, MN"	"27053"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	60102	Unreliable	0.021%
+	"Hennepin County, MN"	"27053"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	56146	53.432	0.046%
+	"Ramsey County, MN"	"27123"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	26807	Unreliable	0.026%
+	"St. Louis County, MN"	"27137"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14413	Unreliable	0.015%
+	"Harrison County, MS"	"28047"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	10063	Unreliable	0.015%
+	"Harrison County, MS"	"28047"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	7931	Unreliable	0.017%
+	"Clay County, MO"	"29047"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	14347	Unreliable	0.017%
+	"Greene County, MO"	"29077"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	17730	Unreliable	0.015%
+	"Greene County, MO"	"29077"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	14576	Unreliable	0.017%
+	"Greene County, MO"	"29077"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	14891	141.025	0.032%
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	17594	Unreliable	0.029%
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	16669	Unreliable	0.029%
+	"Greene County, MO"	"29077"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	14220	Unreliable	0.021%
+	"Jackson County, MO"	"29095"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	31813	Unreliable	0.018%
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	27286	Unreliable	0.018%
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	28462	Unreliable	0.029%
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	34085	Unreliable	0.029%
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	33488	92.570	0.047%
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	29461	Unreliable	0.015%
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	7175	Unreliable	0.015%
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	27138	81.067	0.034%
+	"Jefferson County, MO"	"29099"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	13563	Unreliable	0.017%
+	"Jefferson County, MO"	"29099"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	17511	Unreliable	0.018%
+	"St. Charles County, MO"	"29183"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	20639	Unreliable	0.015%
+	"St. Charles County, MO"	"29183"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	22148	Unreliable	0.015%
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	41258	Unreliable	0.015%
+	"St. Louis County, MO"	"29189"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	39611	83.310	0.050%
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	41226	Unreliable	0.023%
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	39539	60.700	0.037%
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	59821	Unreliable	0.015%
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	55937	57.207	0.049%
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	10855	Unreliable	0.029%
+	"St. Louis city, MO"	"29510"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	7502	Unreliable	0.020%
+	"St. Louis city, MO"	"29510"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	8527	Unreliable	0.020%
+	"Douglas County, NE"	"31055"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	27781	Unreliable	0.028%
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	22664	Unreliable	0.021%
+	"Lancaster County, NE"	"31109"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16278	Unreliable	0.017%
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	49885	Unreliable	0.015%
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	51609	Unreliable	0.026%
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	64103	32.760	0.032%
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	46281	Unreliable	0.015%
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	68265	41.017	0.043%
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	39	64333	60.622	0.060%
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	49	72341	67.735	0.075%
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	14048	Unreliable	0.017%
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	50	71198	70.227	0.076%
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	26960	Unreliable	0.015%
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	98	78044	125.570	0.150%
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	41	69904	58.652	0.063%
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	79	70660	111.803	0.121%
+	"Clark County, NV"	"32003"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	47033	Unreliable	0.017%
+	"Clark County, NV"	"32003"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	46848	44.826	0.032%
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	17170	Unreliable	0.017%
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	18366	Unreliable	0.021%
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	22629	Unreliable	0.028%
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	23152	116.621	0.041%
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	21534	Unreliable	0.024%
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	22096	126.720	0.043%
+	"Washoe County, NV"	"32031"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	13019	Unreliable	0.018%
+	"Hillsborough County, NH"	"33011"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	20773	Unreliable	0.018%
+	"Hillsborough County, NH"	"33011"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	31721	Unreliable	0.020%
+	"Hillsborough County, NH"	"33011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	31701	69.398	0.034%
+	"Hillsborough County, NH"	"33011"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	23177	Unreliable	0.015%
+	"Merrimack County, NH"	"33013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	12023	Unreliable	0.017%
+	"Rockingham County, NH"	"33015"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	26553	Unreliable	0.028%
+	"Rockingham County, NH"	"33015"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	19647	Unreliable	0.017%
+	"Atlantic County, NJ"	"34001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14699	Unreliable	0.015%
+	"Atlantic County, NJ"	"34001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	14210	Unreliable	0.020%
+	"Bergen County, NJ"	"34003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	47751	41.884	0.031%
+	"Bergen County, NJ"	"34003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	40510	Unreliable	0.018%
+	"Burlington County, NJ"	"34005"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	17197	Unreliable	0.015%
+	"Burlington County, NJ"	"34005"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21287	Unreliable	0.017%
+	"Burlington County, NJ"	"34005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	28897	Unreliable	0.015%
+	"Burlington County, NJ"	"34005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	27996	Unreliable	0.023%
+	"Camden County, NJ"	"34007"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	18643	Unreliable	0.023%
+	"Camden County, NJ"	"34007"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	20924	Unreliable	0.015%
+	"Camden County, NJ"	"34007"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	25870	Unreliable	0.026%
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	16	20933	Unreliable	0.024%
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	21827	Unreliable	0.015%
+	"Essex County, NJ"	"34013"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	18	13492	Unreliable	0.028%
+	"Gloucester County, NJ"	"34015"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	12850	Unreliable	0.023%
+	"Hudson County, NJ"	"34017"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	17845	Unreliable	0.015%
+	"Hudson County, NJ"	"34017"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	14388	Unreliable	0.024%
+	"Hudson County, NJ"	"34017"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	11684	Unreliable	0.015%
+	"Mercer County, NJ"	"34021"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	16675	Unreliable	0.020%
+	"Middlesex County, NJ"	"34023"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	24515	Unreliable	0.023%
+	"Middlesex County, NJ"	"34023"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	34844	Unreliable	0.015%
+	"Middlesex County, NJ"	"34023"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	33959	Unreliable	0.023%
+	"Middlesex County, NJ"	"34023"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	28473	Unreliable	0.024%
+	"Monmouth County, NJ"	"34025"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	21901	Unreliable	0.021%
+	"Monmouth County, NJ"	"34025"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	31372	Unreliable	0.023%
+	"Monmouth County, NJ"	"34025"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	46173	47.647	0.034%
+	"Monmouth County, NJ"	"34025"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	44261	51.964	0.035%
+	"Morris County, NJ"	"34027"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16234	Unreliable	0.017%
+	"Morris County, NJ"	"34027"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	24880	Unreliable	0.015%
+	"Morris County, NJ"	"34027"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	33422	Unreliable	0.028%
+	"Ocean County, NJ"	"34029"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	24743	Unreliable	0.018%
+	"Ocean County, NJ"	"34029"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	27355	Unreliable	0.015%
+	"Ocean County, NJ"	"34029"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	33846	Unreliable	0.020%
+	"Passaic County, NJ"	"34031"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	18691	Unreliable	0.024%
+	"Union County, NJ"	"34039"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	21065	94.944	0.031%
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	22707	Unreliable	0.021%
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	18170	Unreliable	0.024%
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	23	19019	120.932	0.035%
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	17187	Unreliable	0.024%
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	18896	Unreliable	0.023%
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	24002	Unreliable	0.024%
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	28	17715	158.058	0.043%
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	23059	108.418	0.038%
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	24134	Unreliable	0.023%
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	17	12014	Unreliable	0.026%
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	22299	Unreliable	0.026%
+	"McKinley County, NM"	"35031"	"45-54 years"	"45-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	10	3182	Unreliable	0.015%
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	14	35635	Unreliable	0.021%
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	20	30850	64.830	0.031%
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	35095	Unreliable	0.015%
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	33415	Unreliable	0.017%
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	29292	Unreliable	0.023%
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	41	27133	151.108	0.063%
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	10907	Unreliable	0.026%
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	24617	Unreliable	0.015%
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	25	18821	132.830	0.038%
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	25	18294	136.657	0.038%
+	"Bronx County, NY"	"36005"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	10610	Unreliable	0.020%
+	"Dutchess County, NY"	"36027"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	13803	Unreliable	0.021%
+	"Dutchess County, NY"	"36027"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	15318	Unreliable	0.017%
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	41033	Unreliable	0.018%
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	44663	Unreliable	0.021%
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	43677	Unreliable	0.018%
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	59613	Unreliable	0.020%
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	57245	36.684	0.032%
+	"Erie County, NY"	"36029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	48310	Unreliable	0.026%
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	84596	Unreliable	0.028%
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	24940	Unreliable	0.015%
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	25933	Unreliable	0.015%
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	60294	46.439	0.043%
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	70521	Unreliable	0.021%
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	51607	Unreliable	0.018%
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	32	49961	64.050	0.049%
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	18	19587	Unreliable	0.028%
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	51379	66.175	0.052%
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	26	36650	70.941	0.040%
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	16	13255	Unreliable	0.024%
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	49254	Unreliable	0.028%
+	"Kings County, NY"	"36047"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	10	7452	Unreliable	0.015%
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	45668	Unreliable	0.015%
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	43743	Unreliable	0.024%
+	"Monroe County, NY"	"36055"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	36749	Unreliable	0.023%
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	52896	Unreliable	0.020%
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	52068	42.252	0.034%
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	77778	Unreliable	0.017%
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	73656	28.511	0.032%
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	66711	Unreliable	0.018%
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	63731	34.520	0.034%
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	19686	Unreliable	0.020%
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	62944	Unreliable	0.018%
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	15955	Unreliable	0.023%
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	17112	Unreliable	0.020%
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	50901	39.292	0.031%
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	16	11036	Unreliable	0.024%
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	12705	Unreliable	0.018%
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	43887	52.407	0.035%
+	"New York County, NY"	"36061"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	27398	Unreliable	0.015%
+	"Niagara County, NY"	"36063"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	13225	Unreliable	0.015%
+	"Onondaga County, NY"	"36067"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	22594	Unreliable	0.015%
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	29682	Unreliable	0.017%
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	21640	Unreliable	0.015%
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	49270	Unreliable	0.020%
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	17	43702	Unreliable	0.026%
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	42369	61.366	0.040%
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	42966	Unreliable	0.017%
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	28582	Unreliable	0.020%
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	21	32519	64.578	0.032%
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	45165	73.065	0.050%
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	46264	Unreliable	0.015%
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	20253	Unreliable	0.015%
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	19806	Unreliable	0.018%
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	42931	Unreliable	0.023%
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	17639	Unreliable	0.018%
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	23859	Unreliable	0.024%
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	66241	40.760	0.041%
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	50115	43.899	0.034%
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	75803	Unreliable	0.021%
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	72102	45.768	0.050%
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	96831	20.655	0.031%
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	48	95220	50.410	0.073%
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	76388	Unreliable	0.023%
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	33	71445	46.189	0.050%
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	34374	Unreliable	0.017%
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	46317	Unreliable	0.026%
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	38749	Unreliable	0.020%
+	"Buncombe County, NC"	"37021"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	14541	Unreliable	0.017%
+	"Cumberland County, NC"	"37051"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	9927	Unreliable	0.017%
+	"Forsyth County, NC"	"37067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	16169	Unreliable	0.015%
+	"Gaston County, NC"	"37071"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	12493	Unreliable	0.021%
+	"Gaston County, NC"	"37071"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	12303	Unreliable	0.017%
+	"Guilford County, NC"	"37081"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	21953	Unreliable	0.015%
+	"Mecklenburg County, NC"	"37119"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	37032	Unreliable	0.029%
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	36679	Unreliable	0.018%
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	36004	Unreliable	0.021%
+	"Mecklenburg County, NC"	"37119"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	27216	Unreliable	0.020%
+	"Wake County, NC"	"37183"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	44848	Unreliable	0.017%
+	"Butler County, OH"	"39017"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18208	Unreliable	0.015%
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	20970	Unreliable	0.018%
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	20149	Unreliable	0.021%
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	24824	Unreliable	0.018%
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	23815	Unreliable	0.028%
+	"Butler County, OH"	"39017"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	19121	Unreliable	0.023%
+	"Clermont County, OH"	"39025"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	11160	Unreliable	0.017%
+	"Clermont County, OH"	"39025"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	12952	Unreliable	0.020%
+	"Clermont County, OH"	"39025"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15635	Unreliable	0.015%
+	"Clermont County, OH"	"39025"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	15163	Unreliable	0.021%
+	"Cuyahoga County, OH"	"39035"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	46620	Unreliable	0.017%
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	47242	Unreliable	0.015%
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	47871	Unreliable	0.029%
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	49302	Unreliable	0.018%
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	49059	44.844	0.034%
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	31153	Unreliable	0.017%
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	65519	30.525	0.031%
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	22	24798	88.717	0.034%
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	46	64133	71.726	0.070%
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	24163	Unreliable	0.023%
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	58095	Unreliable	0.018%
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	21	18923	110.976	0.032%
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	54984	61.836	0.052%
+	"Cuyahoga County, OH"	"39035"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	30042	Unreliable	0.015%
+	"Franklin County, OH"	"39049"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	62334	Unreliable	0.018%
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	64314	Unreliable	0.021%
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	64913	44.675	0.044%
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	52646	Unreliable	0.021%
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	54093	77.644	0.064%
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	59677	53.622	0.049%
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	15479	Unreliable	0.021%
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	46	56834	80.937	0.070%
+	"Franklin County, OH"	"39049"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	49704	Unreliable	0.018%
+	"Franklin County, OH"	"39049"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	44519	62.894	0.043%
+	"Greene County, OH"	"39057"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	10501	Unreliable	0.017%
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	35839	Unreliable	0.017%
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	36283	Unreliable	0.023%
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	33097	Unreliable	0.017%
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	33052	63.536	0.032%
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	43706	57.200	0.038%
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	13597	Unreliable	0.015%
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	42106	68.874	0.044%
+	"Hamilton County, OH"	"39061"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	37269	Unreliable	0.017%
+	"Hamilton County, OH"	"39061"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	34857	Unreliable	0.023%
+	"Lake County, OH"	"39085"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	17522	Unreliable	0.023%
+	"Lorain County, OH"	"39093"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16891	Unreliable	0.017%
+	"Lucas County, OH"	"39095"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	19823	Unreliable	0.017%
+	"Lucas County, OH"	"39095"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	19799	Unreliable	0.018%
+	"Lucas County, OH"	"39095"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	24268	98.896	0.037%
+	"Lucas County, OH"	"39095"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	21253	Unreliable	0.023%
+	"Mahoning County, OH"	"39099"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	11091	Unreliable	0.015%
+	"Mahoning County, OH"	"39099"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	14657	Unreliable	0.029%
+	"Montgomery County, OH"	"39113"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	25610	Unreliable	0.018%
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	24267	Unreliable	0.023%
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	24279	Unreliable	0.021%
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	24260	Unreliable	0.024%
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	23870	Unreliable	0.029%
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	30434	Unreliable	0.020%
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	29667	97.752	0.044%
+	"Montgomery County, OH"	"39113"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	28060	Unreliable	0.021%
+	"Montgomery County, OH"	"39113"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	25585	Unreliable	0.029%
+	"Scioto County, OH"	"39145"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	4725	Unreliable	0.017%
+	"Stark County, OH"	"39151"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	20230	Unreliable	0.021%
+	"Stark County, OH"	"39151"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	25480	Unreliable	0.028%
+	"Stark County, OH"	"39151"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	22590	Unreliable	0.017%
+	"Summit County, OH"	"39153"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	25483	Unreliable	0.015%
+	"Summit County, OH"	"39153"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	25511	Unreliable	0.024%
+	"Summit County, OH"	"39153"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	27823	Unreliable	0.021%
+	"Summit County, OH"	"39153"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	36133	Unreliable	0.024%
+	"Summit County, OH"	"39153"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	34620	69.324	0.037%
+	"Summit County, OH"	"39153"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	29737	Unreliable	0.028%
+	"Warren County, OH"	"39165"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15945	Unreliable	0.015%
+	"Oklahoma County, OK"	"40109"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	31735	Unreliable	0.023%
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	26575	Unreliable	0.021%
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	26681	Unreliable	0.024%
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	34171	84.867	0.044%
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	32708	128.409	0.064%
+	"Oklahoma County, OK"	"40109"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	30846	71.322	0.034%
+	"Oklahoma County, OK"	"40109"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	28686	118.525	0.052%
+	"Tulsa County, OK"	"40143"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	25132	Unreliable	0.017%
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	27489	72.756	0.031%
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	26322	Unreliable	0.021%
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	26571	105.378	0.043%
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	31953	Unreliable	0.021%
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	30570	121.034	0.057%
+	"Tulsa County, OK"	"40143"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	28805	Unreliable	0.018%
+	"Tulsa County, OK"	"40143"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	26269	114.203	0.046%
+	"Clackamas County, OR"	"41005"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	27424	Unreliable	0.017%
+	"Clackamas County, OR"	"41005"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	26378	75.821	0.031%
+	"Jackson County, OR"	"41029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	13566	Unreliable	0.023%
+	"Lane County, OR"	"41039"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	17561	Unreliable	0.021%
+	"Lane County, OR"	"41039"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	22617	Unreliable	0.026%
+	"Lane County, OR"	"41039"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	21048	Unreliable	0.024%
+	"Lane County, OR"	"41039"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	24306	Unreliable	0.018%
+	"Lane County, OR"	"41039"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	22829	105.129	0.037%
+	"Lane County, OR"	"41039"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	12933	Unreliable	0.015%
+	"Linn County, OR"	"41043"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	7364	Unreliable	0.021%
+	"Marion County, OR"	"41047"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	13168	Unreliable	0.018%
+	"Marion County, OR"	"41047"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	16178	129.806	0.032%
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	50667	Unreliable	0.029%
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	40064	Unreliable	0.015%
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	43516	45.960	0.031%
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	39055	58.891	0.035%
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	47	39289	119.626	0.072%
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	37553	Unreliable	0.023%
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	47	36568	128.528	0.072%
+	"Multnomah County, OR"	"41051"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	16028	Unreliable	0.023%
+	"Washington County, OR"	"41067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	28822	Unreliable	0.020%
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	64366	Unreliable	0.023%
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	60995	Unreliable	0.026%
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	63566	42.476	0.041%
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	59101	Unreliable	0.024%
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	42	58777	71.457	0.064%
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	81434	39.296	0.049%
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	10097	Unreliable	0.015%
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	59	77212	76.413	0.090%
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	73264	Unreliable	0.020%
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	7988	Unreliable	0.018%
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	67913	42.702	0.044%
+	"Berks County, PA"	"42011"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	20342	Unreliable	0.018%
+	"Berks County, PA"	"42011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	26354	Unreliable	0.015%
+	"Bucks County, PA"	"42017"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	32894	Unreliable	0.021%
+	"Bucks County, PA"	"42017"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	27117	81.130	0.034%
+	"Bucks County, PA"	"42017"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	36936	Unreliable	0.021%
+	"Bucks County, PA"	"42017"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	35109	Unreliable	0.024%
+	"Bucks County, PA"	"42017"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	49855	Unreliable	0.020%
+	"Bucks County, PA"	"42017"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	48962	65.357	0.049%
+	"Bucks County, PA"	"42017"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	39354	Unreliable	0.015%
+	"Bucks County, PA"	"42017"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	38038	Unreliable	0.015%
+	"Chester County, PA"	"42029"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	20536	Unreliable	0.021%
+	"Delaware County, PA"	"42045"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	28254	Unreliable	0.020%
+	"Delaware County, PA"	"42045"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	22134	90.359	0.031%
+	"Delaware County, PA"	"42045"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	23664	Unreliable	0.029%
+	"Delaware County, PA"	"42045"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	33714	Unreliable	0.023%
+	"Delaware County, PA"	"42045"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	32124	77.823	0.038%
+	"Lackawanna County, PA"	"42069"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14559	Unreliable	0.015%
+	"Lehigh County, PA"	"42077"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	20865	Unreliable	0.024%
+	"Luzerne County, PA"	"42079"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	14939	Unreliable	0.020%
+	"Luzerne County, PA"	"42079"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	22499	Unreliable	0.020%
+	"Montgomery County, PA"	"42091"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	35285	62.349	0.034%
+	"Montgomery County, PA"	"42091"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	41283	Unreliable	0.028%
+	"Montgomery County, PA"	"42091"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	54733	Unreliable	0.028%
+	"Montgomery County, PA"	"42091"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	51952	51.971	0.041%
+	"Montgomery County, PA"	"42091"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	41605	48.071	0.031%
+	"Northampton County, PA"	"42095"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	19850	Unreliable	0.021%
+	"Philadelphia County, PA"	"42101"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	46621	Unreliable	0.018%
+	"Philadelphia County, PA"	"42101"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	52944	Unreliable	0.028%
+	"Philadelphia County, PA"	"42101"	"25-34 years"	"25-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	37472	Unreliable	0.020%
+	"Philadelphia County, PA"	"42101"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	54005	66.660	0.055%
+	"Philadelphia County, PA"	"42101"	"35-44 years"	"35-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	45928	Unreliable	0.015%
+	"Philadelphia County, PA"	"42101"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	31821	Unreliable	0.024%
+	"Philadelphia County, PA"	"42101"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	36640	Unreliable	0.023%
+	"Philadelphia County, PA"	"42101"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	35	34695	100.879	0.054%
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	17	51986	Unreliable	0.026%
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	36412	57.673	0.032%
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	36	41057	87.683	0.055%
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	72	36834	195.472	0.110%
+	"Philadelphia County, PA"	"42101"	"55-64 years"	"55-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	40011	Unreliable	0.018%
+	"Philadelphia County, PA"	"42101"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	36312	Unreliable	0.017%
+	"Philadelphia County, PA"	"42101"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	35	29416	118.983	0.054%
+	"Philadelphia County, PA"	"42101"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	33356	86.941	0.044%
+	"Washington County, PA"	"42125"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9663	Unreliable	0.015%
+	"Westmoreland County, PA"	"42129"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16915	Unreliable	0.017%
+	"Westmoreland County, PA"	"42129"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	29491	Unreliable	0.023%
+	"Westmoreland County, PA"	"42129"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	28683	Unreliable	0.017%
+	"York County, PA"	"42133"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	31637	Unreliable	0.020%
+	"York County, PA"	"42133"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	31251	Unreliable	0.024%
+	"York County, PA"	"42133"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	25404	Unreliable	0.018%
+	"Kent County, RI"	"44003"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14004	Unreliable	0.015%
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	27749	Unreliable	0.017%
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	26997	Unreliable	0.024%
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	34889	Unreliable	0.021%
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	33409	107.755	0.055%
+	"Providence County, RI"	"44007"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	27672	101.185	0.043%
+	"Anderson County, SC"	"45007"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	11197	Unreliable	0.029%
+	"Charleston County, SC"	"45019"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	18034	Unreliable	0.021%
+	"Charleston County, SC"	"45019"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	14880	Unreliable	0.023%
+	"Greenville County, SC"	"45045"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	19469	Unreliable	0.015%
+	"Greenville County, SC"	"45045"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	24722	Unreliable	0.024%
+	"Greenville County, SC"	"45045"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	24050	95.634	0.035%
+	"Greenville County, SC"	"45045"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	20171	Unreliable	0.023%
+	"Horry County, SC"	"45051"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15940	Unreliable	0.015%
+	"Horry County, SC"	"45051"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	14527	Unreliable	0.029%
+	"Lexington County, SC"	"45063"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	16070	Unreliable	0.020%
+	"Lexington County, SC"	"45063"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	13493	Unreliable	0.020%
+	"Richland County, SC"	"45079"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	12377	Unreliable	0.017%
+	"Richland County, SC"	"45079"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	11730	Unreliable	0.018%
+	"Spartanburg County, SC"	"45083"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	15121	Unreliable	0.015%
+	"Spartanburg County, SC"	"45083"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	13336	Unreliable	0.018%
+	"Blount County, TN"	"47009"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	9147	Unreliable	0.017%
+	"Blount County, TN"	"47009"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	8477	Unreliable	0.015%
+	"Davidson County, TN"	"47037"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	32675	Unreliable	0.015%
+	"Davidson County, TN"	"47037"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	25592	Unreliable	0.020%
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	27582	72.511	0.031%
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	26502	113.199	0.046%
+	"Davidson County, TN"	"47037"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	24426	Unreliable	0.017%
+	"Davidson County, TN"	"47037"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	22633	101.622	0.035%
+	"Hamilton County, TN"	"47065"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18358	Unreliable	0.015%
+	"Knox County, TN"	"47093"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	23978	Unreliable	0.018%
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	24139	Unreliable	0.028%
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	27841	Unreliable	0.024%
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	26733	115.962	0.047%
+	"Knox County, TN"	"47093"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	22419	Unreliable	0.028%
+	"Shelby County, TN"	"47157"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	29319	Unreliable	0.015%
+	"Shelby County, TN"	"47157"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	23527	Unreliable	0.020%
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	30191	66.245	0.031%
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	29708	Unreliable	0.021%
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	28608	76.902	0.034%
+	"Shelby County, TN"	"47157"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	27211	Unreliable	0.017%
+	"Shelby County, TN"	"47157"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	25	21451	116.545	0.038%
+	"Shelby County, TN"	"47157"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	25879	Unreliable	0.026%
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	16	80193	Unreliable	0.024%
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	29	71715	40.438	0.044%
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	34044	Unreliable	0.015%
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	25	63573	39.325	0.038%
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	35207	Unreliable	0.015%
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	59817	Unreliable	0.018%
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	41264	Unreliable	0.028%
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	41	56172	72.990	0.063%
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	40215	Unreliable	0.020%
+	"Bexar County, TX"	"48029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	28	37604	74.460	0.043%
+	"Bexar County, TX"	"48029"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	34600	Unreliable	0.021%
+	"Collin County, TX"	"48085"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	42194	Unreliable	0.017%
+	"Collin County, TX"	"48085"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	42421	Unreliable	0.015%
+	"Collin County, TX"	"48085"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	28428	Unreliable	0.024%
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	43229	Unreliable	0.018%
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	56279	Unreliable	0.018%
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	57322	41.869	0.037%
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	50242	Unreliable	0.015%
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	68427	Unreliable	0.020%
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	53727	Unreliable	0.026%
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	67513	44.436	0.046%
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	15	35254	Unreliable	0.023%
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	17	43989	Unreliable	0.026%
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	52	68287	76.149	0.079%
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	61252	32.652	0.031%
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	22004	Unreliable	0.018%
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	56734	49.353	0.043%
+	"Dallas County, TX"	"48113"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	31397	Unreliable	0.015%
+	"Denton County, TX"	"48121"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	29001	Unreliable	0.017%
+	"Denton County, TX"	"48121"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	29362	Unreliable	0.015%
+	"Denton County, TX"	"48121"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	35593	Unreliable	0.015%
+	"El Paso County, TX"	"48141"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	38824	Unreliable	0.018%
+	"El Paso County, TX"	"48141"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	22	36321	60.571	0.034%
+	"El Paso County, TX"	"48141"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	19	25156	Unreliable	0.029%
+	"Galveston County, TX"	"48167"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	12471	Unreliable	0.015%
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	77752	Unreliable	0.020%
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	93827	24.513	0.035%
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	54218	Unreliable	0.015%
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	18	150580	Unreliable	0.028%
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	28	96589	28.989	0.043%
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	90866	29.714	0.041%
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	49243	Unreliable	0.015%
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	24	122459	19.598	0.037%
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	46	93692	49.097	0.070%
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	18	57511	Unreliable	0.028%
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	44	115643	38.048	0.067%
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	26	47744	54.457	0.040%
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	33	84883	38.877	0.050%
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	91	115287	78.933	0.139%
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	100921	29.726	0.046%
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	25	33169	75.372	0.038%
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	20	43833	45.628	0.031%
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	48	100403	47.807	0.073%
+	"Harris County, TX"	"48201"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	55411	Unreliable	0.018%
+	"Harris County, TX"	"48201"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	50160	Unreliable	0.020%
+	"Hidalgo County, TX"	"48215"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	33428	Unreliable	0.020%
+	"McLennan County, TX"	"48309"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9603	Unreliable	0.015%
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	27466	Unreliable	0.015%
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	26958	Unreliable	0.018%
+	"Montgomery County, TX"	"48339"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	21936	Unreliable	0.017%
+	"Nueces County, TX"	"48355"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	9403	Unreliable	0.015%
+	"Nueces County, TX"	"48355"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	8932	Unreliable	0.021%
+	"Tarrant County, TX"	"48439"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	57173	Unreliable	0.017%
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	64606	Unreliable	0.020%
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	62590	Unreliable	0.021%
+	"Tarrant County, TX"	"48439"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	67219	Unreliable	0.021%
+	"Tarrant County, TX"	"48439"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	65774	30.407	0.031%
+	"Tarrant County, TX"	"48439"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	80261	37.378	0.046%
+	"Tarrant County, TX"	"48439"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	78652	40.686	0.049%
+	"Tarrant County, TX"	"48439"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	64461	Unreliable	0.021%
+	"Tarrant County, TX"	"48439"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	60492	33.062	0.031%
+	"Travis County, TX"	"48453"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	47120	Unreliable	0.015%
+	"Travis County, TX"	"48453"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	38378	Unreliable	0.015%
+	"Travis County, TX"	"48453"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	42872	Unreliable	0.026%
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	39483	Unreliable	0.029%
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	15872	Unreliable	0.017%
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	26	40105	64.830	0.040%
+	"Travis County, TX"	"48453"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	32636	Unreliable	0.024%
+	"Travis County, TX"	"48453"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	7987	Unreliable	0.018%
+	"Travis County, TX"	"48453"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	32392	Unreliable	0.028%
+	"Webb County, TX"	"48479"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	12	7932	Unreliable	0.018%
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	55836	Unreliable	0.026%
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	66915	43.339	0.044%
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	48097	41.583	0.031%
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	29	50550	57.369	0.044%
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	50105	49.895	0.038%
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	49215	69.085	0.052%
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	41695	Unreliable	0.018%
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	40615	83.713	0.052%
+	"Utah County, UT"	"49049"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	43781	Unreliable	0.020%
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	38689	Unreliable	0.023%
+	"Utah County, UT"	"49049"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	23836	Unreliable	0.017%
+	"Utah County, UT"	"49049"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	18955	Unreliable	0.023%
+	"Utah County, UT"	"49049"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	18644	Unreliable	0.015%
+	"Clark County, WA"	"53011"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	24421	Unreliable	0.017%
+	"Clark County, WA"	"53011"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	27328	Unreliable	0.020%
+	"Clark County, WA"	"53011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	26884	Unreliable	0.028%
+	"Clark County, WA"	"53011"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	24566	Unreliable	0.015%
+	"Clark County, WA"	"53011"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	22892	Unreliable	0.024%
+	"Cowlitz County, WA"	"53015"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	6904	Unreliable	0.015%
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	75375	Unreliable	0.028%
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	94705	Unreliable	0.015%
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	20	99322	20.137	0.031%
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	94144	23.368	0.034%
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	100478	37.819	0.058%
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	38	105928	35.873	0.058%
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	9876	Unreliable	0.015%
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	72	108163	66.566	0.110%
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	32	90098	35.517	0.049%
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	58	87358	66.393	0.089%
+	"King County, WA"	"53033"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	41946	Unreliable	0.029%
+	"Kitsap County, WA"	"53035"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	16568	Unreliable	0.017%
+	"Kitsap County, WA"	"53035"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	15427	Unreliable	0.020%
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	38309	Unreliable	0.015%
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	39859	Unreliable	0.023%
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	39230	Unreliable	0.023%
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	46314	53.979	0.038%
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	46652	66.449	0.047%
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	24	38359	62.567	0.037%
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	37	36956	100.119	0.057%
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	37934	Unreliable	0.023%
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	21	39200	53.571	0.032%
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	31	46626	66.487	0.047%
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	27	47531	56.805	0.041%
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	36882	Unreliable	0.018%
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	30	35866	83.645	0.046%
+	"Snohomish County, WA"	"53061"	"65-74 years"	"65-74"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	18911	Unreliable	0.017%
+	"Spokane County, WA"	"53063"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	15	25421	Unreliable	0.023%
+	"Spokane County, WA"	"53063"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	31601	Unreliable	0.026%
+	"Spokane County, WA"	"53063"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	30627	81.627	0.038%
+	"Spokane County, WA"	"53063"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	28330	Unreliable	0.021%
+	"Spokane County, WA"	"53063"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	25	27022	92.517	0.038%
+	"Spokane County, WA"	"53063"	"65-74 years"	"65-74"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	14462	Unreliable	0.018%
+	"Thurston County, WA"	"53067"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	15008	Unreliable	0.017%
+	"Thurston County, WA"	"53067"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	14330	Unreliable	0.015%
+	"Yakima County, WA"	"53077"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	9279	Unreliable	0.018%
+	"Cabell County, WV"	"54011"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	5884	Unreliable	0.017%
+	"Kanawha County, WV"	"54039"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	13069	Unreliable	0.018%
+	"Raleigh County, WV"	"54081"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4968	Unreliable	0.015%
+	"Wyoming County, WV"	"54109"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	1765	Unreliable	0.017%
+	"Dane County, WI"	"55025"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	26678	Unreliable	0.017%
+	"Dane County, WI"	"55025"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	31432	Unreliable	0.021%
+	"Dane County, WI"	"55025"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	14	29948	Unreliable	0.021%
+	"Dane County, WI"	"55025"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	25491	Unreliable	0.017%
+	"Kenosha County, WI"	"55059"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	7539	Unreliable	0.015%
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	39542	Unreliable	0.018%
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	40143	Unreliable	0.026%
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	31228	Unreliable	0.017%
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	32519	Unreliable	0.028%
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	17636	Unreliable	0.020%
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	40659	56.568	0.035%
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	14204	Unreliable	0.018%
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	36	39736	90.598	0.055%
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"Female"	"F"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	36054	Unreliable	0.020%
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	10	9682	Unreliable	0.015%
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	22	34572	63.635	0.034%
+	"Winnebago County, WI"	"55139"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	13	12269	Unreliable	0.020%
+	"Laramie County, WY"	"56021"	"45-54 years"	"45-54"	"Male"	"M"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	5761	Unreliable	0.015%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2014"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Drug/Alcohol Induced Causes: Drug-Induced Causes, Alcohol-Induced Causes"
+"Gender: All"
+"Hispanic Origin: All"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: 5-14 years, 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65-74 years, 75-84 years"
+"Weekday: All"
+"Year/Month: 2010"
+"Group By: County, Ten-Year Age Groups, Gender, Race, Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Aug 3, 2016 5:37:01 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2014 on CDC WONDER Online Database, released 2015. Data are from the Multiple Cause of Death Files, 1999-2014, as compiled"
+"from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/ucd-icd10.html on Aug 3, 2016 5:37:01 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014."
+"2. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge."
+"3. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"4. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"5. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"8. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"9. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"10. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014"
+"postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for"
+"year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS"
+"on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The"
+"population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised"
+"intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census"
+"counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the"
+"infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ"
+"slightly from previously published reports, due to use of the population estimates which were available at the time of release."

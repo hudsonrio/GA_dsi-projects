@@ -1,0 +1,111 @@
+"Notes"	"Age"	"Age Code"	Projected Populations
+	"< 1 year"	"0"	122229952
+	"1 year"	"1"	121704690
+	"2 years"	"2"	121173348
+	"3 years"	"3"	120619066
+	"4 years"	"4"	119889775
+	"5 years"	"5"	119146966
+	"6 years"	"6"	118425045
+	"7 years"	"7"	117759354
+	"8 years"	"8"	117213373
+	"9 years"	"9"	116742198
+	"10 years"	"10"	116380667
+	"11 years"	"11"	116177477
+	"12 years"	"12"	116094297
+	"13 years"	"13"	116151713
+	"14 years"	"14"	116304345
+	"15 years"	"15"	116392116
+	"16 years"	"16"	116455828
+	"17 years"	"17"	116528817
+	"18 years"	"18"	116699020
+	"19 years"	"19"	116784216
+	"20 years"	"20"	116760845
+	"21 years"	"21"	116695652
+	"22 years"	"22"	116607865
+	"23 years"	"23"	116685658
+	"24 years"	"24"	116830483
+	"25 years"	"25"	116935507
+	"26 years"	"26"	117000768
+	"27 years"	"27"	116965575
+	"28 years"	"28"	116833791
+	"29 years"	"29"	116723268
+	"30 years"	"30"	116543273
+	"31 years"	"31"	116568793
+	"32 years"	"32"	116686969
+	"33 years"	"33"	116990306
+	"34 years"	"34"	117308894
+	"35 years"	"35"	117279818
+	"36 years"	"36"	117075554
+	"37 years"	"37"	116802295
+	"38 years"	"38"	116527801
+	"39 years"	"39"	116433273
+	"40 years"	"40"	116317074
+	"41 years"	"41"	116147543
+	"42 years"	"42"	116094611
+	"43 years"	"43"	116138464
+	"44 years"	"44"	116271931
+	"45 years"	"45"	116209088
+	"46 years"	"46"	116156480
+	"47 years"	"47"	116046859
+	"48 years"	"48"	115769034
+	"49 years"	"49"	115441217
+	"50 years"	"50"	114863538
+	"51 years"	"51"	114184030
+	"52 years"	"52"	113522552
+	"53 years"	"53"	112822714
+	"54 years"	"54"	112184580
+	"55 years"	"55"	111431252
+	"56 years"	"56"	110613056
+	"57 years"	"57"	109809464
+	"58 years"	"58"	108265158
+	"59 years"	"59"	106390069
+	"60 years"	"60"	104274056
+	"61 years"	"61"	102054864
+	"62 years"	"62"	99762079
+	"63 years"	"63"	97310243
+	"64 years"	"64"	94716311
+	"65 years"	"65"	91860015
+	"66 years"	"66"	88658214
+	"67 years"	"67"	85290108
+	"68 years"	"68"	81894653
+	"69 years"	"69"	78481565
+	"70 years"	"70"	74885767
+	"71 years"	"71"	71213999
+	"72 years"	"72"	67675296
+	"73 years"	"73"	64149709
+	"74 years"	"74"	60716851
+	"75 years"	"75"	57339270
+	"76 years"	"76"	53964476
+	"77 years"	"77"	50690811
+	"78 years"	"78"	47481229
+	"79 years"	"79"	44348013
+	"80 years"	"80"	41260039
+	"81 years"	"81"	38160363
+	"82 years"	"82"	35183061
+	"83 years"	"83"	32185736
+	"84 years"	"84"	29217850
+	"85+ years"	"85+"	189877214
+"Total"			8852459157
+"---"
+"Dataset: State  Population Projections 2004-2030"
+"Query Parameters:"
+"Title:"
+"Age: All"
+"Gender: All"
+"State: All"
+"Year: All, 2004 to 2030"
+"Group By: Age"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/PopulationProjections.html for more information."
+"---"
+"Query Date: Jul 29, 2016 2:59:28 PM"
+"---"
+"Suggested Citation: Population Projections, United States, 2004 - 2030, by state, age and sex, on CDC WONDER Online Database,"
+"September 2005. Accessed at http://wonder.cdc.gov/population-projections.html on Jul 29, 2016 2:59:28 PM"
+"---"
+Caveats:
+"1. Population estimates and projections are updated periodically, population estimates and projections produced in the preceding"
+"years are superseded by the most recent population series for the same years. Population estimates are preferred to projections"
+"when estimates are available, unless the objective is to compare numbers with others in the projected series."
