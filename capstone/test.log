@@ -1,0 +1,4 @@
+2016-08-17 11:18:14,564 INFO:Half of CDC files successfully read in
+2016-08-17 11:18:14,599 INFO:Target Data loaded
+2016-08-17 11:18:15,525 INFO:How many rows did I drop? Pre_clean: 18293, post clen: 18293
+2016-08-17 11:18:15,549 DEBUG:number of lines in target dataframe: 17092
